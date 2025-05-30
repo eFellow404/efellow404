@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **eFellow404/efellow404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efellow404&layout=donut-vertical)](https://github.com/efellow404/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efellow404&layout=donut-vertical&exclude_repo=efellow404.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
